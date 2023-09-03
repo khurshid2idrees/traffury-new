@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/traffury-new/static/css/main.17736877.css",
+    "main.js": "/traffury-new/static/js/main.1eaec9cd.js",
+    "static/js/787.c07fcb37.chunk.js": "/traffury-new/static/js/787.c07fcb37.chunk.js",
+    "static/media/mottoketo.png": "/traffury-new/static/media/mottoketo.b9cc64c1ba4d281eaea3.png",
+    "static/media/giphy.gif": "/traffury-new/static/media/giphy.d7e160215c98356d7be7.gif",
+    "static/media/fleko.png": "/traffury-new/static/media/fleko.f9499b45e3d2839f6657.png",
+    "static/media/mapimage.png": "/traffury-new/static/media/mapimage.24eee0bf57989b9c60f9.png",
+    "static/media/customer1.jpg": "/traffury-new/static/media/customer1.6f8b662376db90829a3b.jpg",
+    "static/media/customer5.jpg": "/traffury-new/static/media/customer5.3170a7102e014756df49.jpg",
+    "static/media/customer4.jpg": "/traffury-new/static/media/customer4.8f66bddc2c52a5794d84.jpg",
+    "static/media/tf-banner.jpg": "/traffury-new/static/media/tf-banner.dc7af8edc4481e342134.jpg",
+    "static/media/bigboss.png": "/traffury-new/static/media/bigboss.7ed5cbd690c522d0bd1e.png",
+    "static/media/customer3.jpg": "/traffury-new/static/media/customer3.bdf4ec735ccfde9997cb.jpg",
+    "static/media/customer2.jpg": "/traffury-new/static/media/customer2.0c773f6af2991864bf40.jpg",
+    "static/media/product-1.jpg": "/traffury-new/static/media/product-1.ed362d71a3b821e23b3c.jpg",
+    "static/media/penirun.png": "/traffury-new/static/media/penirun.6112f30f49293f2c1207.png",
+    "static/media/abt-bg.jpg": "/traffury-new/static/media/abt-bg.a22a00fe0c2c1e8cd016.jpg",
+    "static/media/api.png": "/traffury-new/static/media/api.780c3c66b95cdf377135.png",
+    "static/media/geo-icon.png": "/traffury-new/static/media/geo-icon.eb32337fbcfd2ae7800e.png",
+    "static/media/leadrock.jpg": "/traffury-new/static/media/leadrock.869cd396f02bdae8c5a1.jpg",
+    "static/media/personal-icon.png": "/traffury-new/static/media/personal-icon.a2a418d1dabd96ba70aa.png",
+    "static/media/m1.jpg": "/traffury-new/static/media/m1.30a913c9bb3393025461.jpg",
+    "static/media/crm.png": "/traffury-new/static/media/crm.97ed001e5405715355c8.png",
+    "static/media/in-house-icon.png": "/traffury-new/static/media/in-house-icon.db5fb9ac06ef9417dd2e.png",
+    "static/media/callCenterIcon.png": "/traffury-new/static/media/callCenterIcon.794f92591a4447e46d42.png",
+    "static/media/affstar.jpg": "/traffury-new/static/media/affstar.cc63cd3b079a3aa3ddd8.jpg",
+    "static/media/terra.jpg": "/traffury-new/static/media/terra.08d12c6dc3962f661845.jpg",
+    "static/media/adcombo.jpg": "/traffury-new/static/media/adcombo.498964d34f36b3f6bf63.jpg",
+    "static/media/kmbiz.jpg": "/traffury-new/static/media/kmbiz.fcc1441e50aea456a506.jpg",
+    "static/media/monalead.jpg": "/traffury-new/static/media/monalead.fdc9bbaea9d2304448b6.jpg",
+    "static/media/metacpa.jpg": "/traffury-new/static/media/metacpa.1686553fd5b3cded7d58.jpg",
+    "index.html": "/traffury-new/index.html",
+    "main.17736877.css.map": "/traffury-new/static/css/main.17736877.css.map",
+    "main.1eaec9cd.js.map": "/traffury-new/static/js/main.1eaec9cd.js.map",
+    "787.c07fcb37.chunk.js.map": "/traffury-new/static/js/787.c07fcb37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17736877.css",
+    "static/js/main.1eaec9cd.js"
+  ]
+}
