@@ -156,7 +156,7 @@ export default function About({ testdata }) {
                             </svg>
                           </div>
 
-                          <p className="mt-1 text-lg font-medium text-gray-700">Harry </p>
+                          <p className="mt-1 text-lg font-medium text-gray-700">Isabella Parker </p>
                         </div>
                       </div>
 
@@ -241,7 +241,7 @@ export default function About({ testdata }) {
                             </svg>
                           </div>
 
-                          <p className="mt-1 text-lg font-medium text-gray-700">Zayn </p>
+                          <p className="mt-1 text-lg font-medium text-gray-700">Nicholas Carter </p>
                         </div>
                       </div>
 
@@ -324,7 +324,7 @@ export default function About({ testdata }) {
                             </svg>
                           </div>
 
-                          <p className="mt-1 text-lg font-medium text-gray-700">harry </p>
+                          <p className="mt-1 text-lg font-medium text-gray-700">Benjamin Mitchell </p>
                         </div>
                       </div>
 
@@ -407,7 +407,7 @@ export default function About({ testdata }) {
                             </svg>
                           </div>
 
-                          <p className="mt-1 text-lg font-medium text-gray-700">harry </p>
+                          <p className="mt-1 text-lg font-medium text-gray-700">Sophia Thompson </p>
                         </div>
                       </div>
 
@@ -490,7 +490,7 @@ export default function About({ testdata }) {
                             </svg>
                           </div>
 
-                          <p className="mt-1 text-lg font-medium text-gray-700">harry </p>
+                          <p className="mt-1 text-lg font-medium text-gray-700">Wilson </p>
                         </div>
                       </div>
 
