@@ -4,7 +4,11 @@ import product1 from '../../assets/images/product-1.jpg'
 import Penirun from '../../assets/images/hotoffers/penirun.png';
 import Bigboss from '../../assets/images/hotoffers/bigboss.png';
 import mottoketo from '../../assets/images/hotoffers/mottoketo.png';
-import flexo from '../../assets/images/hotoffers/fleko.png';
+import aveda from '../../assets/images/hotoffers/aveda.png';
+import longnights from '../../assets/images/hotoffers/longnights.png';
+import fat2fit from '../../assets/images/hotoffers/fat2fit.png';
+import diafix from '../../assets/images/hotoffers/diafix.png';
+import sexup from '../../assets/images/hotoffers/sexup.png';
 
 
 const products = [
@@ -12,76 +16,76 @@ const products = [
 
     {
       id: 1,
-      name: 'Diafix',
+      name: 'Penirun',
       href: '#',
       imageSrc: Penirun,
       imageAlt: "Front of men's Diafix in black.",
-      price: '$35',
+      price: '2699',
       color: 'Black',
     },
     {
       id: 2,
-      name: 'Diafix',
+      name: 'Big Boss',
       href: '#',
       imageSrc: Bigboss,
       imageAlt: "Front of men's Diafix in black.",
-      price: '$35',
+      price: '2699',
       color: 'Black',
     },
     {
       id: 3,
-      name: 'Diafix',
+      name: 'Motto Keto',
       href: '#',
       imageSrc: mottoketo,
       imageAlt: "Front of men's Diafix in black.",
-      price: '$35',
+      price: '2499',
       color: 'Black',
     },
     {
       id: 4,
+      name: 'Aveda',
+      href: '#',
+      imageSrc: aveda,
+      imageAlt: "Front of men's Diafix in black.",
+      price: '2499',
+      color: 'Black',
+    },
+    {
+      id: 5,
+      name: 'Long Nights',
+      href: '#',
+      imageSrc: longnights,
+      imageAlt: "Front of men's Diafix in black.",
+      price: '2699',
+      color: 'Black',
+    },
+    {
+      id: 6,
+      name: 'Fat2fit',
+      href: '#',
+      imageSrc: fat2fit,
+      imageAlt: "Front of men's Diafix in black.",
+      price: '2499',
+      color: 'Black',
+    },
+    {
+      id: 7,
       name: 'Diafix',
       href: '#',
-      imageSrc: flexo,
+      imageSrc: diafix,
+      imageAlt: "Front of men's Diafix in black.",
+      price: '2499',
+      color: 'Black',
+    },
+    {
+      id: 8,
+      name: 'Diafix',
+      href: '#',
+      imageSrc: sexup,
       imageAlt: "Front of men's Diafix in black.",
       price: '$35',
       color: 'Black',
     },
-    // {
-    //   id: 5,
-    //   name: 'Diafix',
-    //   href: '#',
-    //   imageSrc: {product1},
-    //   imageAlt: "Front of men's Diafix in black.",
-    //   price: '$35',
-    //   color: 'Black',
-    // },
-    // {
-    //   id: 6,
-    //   name: 'Diafix',
-    //   href: '#',
-    //   imageSrc: {product1},
-    //   imageAlt: "Front of men's Diafix in black.",
-    //   price: '$35',
-    //   color: 'Black',
-    // },
-    // {
-    //   id: 7,
-    //   name: 'Diafix',
-    //   href: '#',
-    //   imageSrc: {product1},
-    //   imageAlt: "Front of men's Diafix in black.",
-    //   price: '$35',
-    //   color: 'Black',
-    // },
-    // {
-    //   id: 8,
-    //   name: 'Diafix',
-    //   href: '#',
-    //   imageSrc: {product1},
-    //   imageAlt: "Front of men's Diafix in black.",
-    //   price: '$35',
-    //   color: 'Black',
-    // },
     // More products...
   ]
 

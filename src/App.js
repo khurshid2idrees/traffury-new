@@ -7,16 +7,15 @@ import Hotoffers from './components/Home/Hotoffers';
 import About from './components/Home/About';
 import Map from './components/Home/Map';
 import Footer from './components/Home/Footer';
-import Thanks from './components/Home/Thanks';
+// import Thanks from './components/Home/Thanks';
 import Payment from './components/Home/Payment';
 
 import Logoslider from './components/Home/Logoslider';
+import Thanks from './pages/Thanks';
 
-import Test from './components/Home/Test';
+// import Test from './components/Home/Test';
 
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-
-
+import { BrowserRouter as Router, Route, Routes  } from 'react-router-dom';
 
 const testdata = [
 
@@ -32,6 +31,16 @@ function App() {
 
   return (
     <>
+
+<Router>
+      <Routes>
+        <Route  path="/thanks" component={<Thanks/>} />
+        {/* <Route path="/about" component={About} />
+        <Route path="/contact" component={Contact} /> */}
+      </Routes>
+    </Router>
+
+
 {/* <Test testdata = {testdata} /> */}
 
    <NavBar/>
@@ -43,6 +52,9 @@ function App() {
   <Logoslider/>
   <Map/>
   <Footer/>
+
+
+
    </>
   );
 }
