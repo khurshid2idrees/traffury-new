@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/traffury-new/static/css/main.17736877.css",
-    "main.js": "/traffury-new/static/js/main.1eaec9cd.js",
+    "main.js": "/traffury-new/static/js/main.1f4fd071.js",
     "static/js/787.c07fcb37.chunk.js": "/traffury-new/static/js/787.c07fcb37.chunk.js",
     "static/media/mottoketo.png": "/traffury-new/static/media/mottoketo.b9cc64c1ba4d281eaea3.png",
     "static/media/giphy.gif": "/traffury-new/static/media/giphy.d7e160215c98356d7be7.gif",
@@ -33,11 +33,11 @@
     "static/media/metacpa.jpg": "/traffury-new/static/media/metacpa.1686553fd5b3cded7d58.jpg",
     "index.html": "/traffury-new/index.html",
     "main.17736877.css.map": "/traffury-new/static/css/main.17736877.css.map",
-    "main.1eaec9cd.js.map": "/traffury-new/static/js/main.1eaec9cd.js.map",
+    "main.1f4fd071.js.map": "/traffury-new/static/js/main.1f4fd071.js.map",
     "787.c07fcb37.chunk.js.map": "/traffury-new/static/js/787.c07fcb37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17736877.css",
-    "static/js/main.1eaec9cd.js"
+    "static/js/main.1f4fd071.js"
   ]
 }
