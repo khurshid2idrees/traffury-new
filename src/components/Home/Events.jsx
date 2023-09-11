@@ -31,7 +31,7 @@ export default function Events() {
  
 {/* <div class="py-16 bg-white" >
         <div class="container  px-6 text-gray-600 "> */}
-          <div class="space-y-6 md:space-y-0 md:flex flex-wrap   justify-center items-center bg-black">
+          <div class="space-y-6 md:space-y-0 md:flex flex-wrap   justify-between items-center bg-black">
            
                 <div className='flex1 '>
 
@@ -57,7 +57,7 @@ export default function Events() {
 
             <strong>Location</strong> : <span>Almaty, Kazakhstan</span>
             <br /><br />
-            <strong>Website</strong> : <a href="https://almaty.affiliateconf.com"><span>https://almaty.affiliateconf.com</span></a> 
+            <strong>Website</strong> : <a href="https://almaty.affiliateconf.com" target='_blank'><span>https://almaty.affiliateconf.com</span></a> 
 
 
               

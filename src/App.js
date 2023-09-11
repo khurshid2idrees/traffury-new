@@ -43,18 +43,18 @@ function App() {
     </Router>
 
 
-<Events/>
 
 {/* <Test testdata = {testdata} /> */}
 
-   {/* <NavBar/>
+   <NavBar/>
    <Header/>
    <Advantages/>
   <Hotoffers/>
+<Events/>
   <About testdata = {testdata} />
  <Payment/>
   <Logoslider/>
-  <Map/> */}
+  <Map/>
   <Footer/>
 
 
