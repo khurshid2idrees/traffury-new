@@ -18,10 +18,6 @@ import customer1 from "../../assets/images/aboutpics/customer1.jpg"
 import texasimg from '../../assets/images/eventsimg/eventkazakistan.png'
 
 
-
-
-
-
 export default function Events() {
   return (
    <>
