@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/traffury-new/static/css/main.26631ea0.css",
-    "main.js": "/traffury-new/static/js/main.d89ac37c.js",
+    "main.css": "/traffury-new/static/css/main.0707eceb.css",
+    "main.js": "/traffury-new/static/js/main.d9364744.js",
     "static/js/787.c07fcb37.chunk.js": "/traffury-new/static/js/787.c07fcb37.chunk.js",
     "static/media/eventkazakistan.png": "/traffury-new/static/media/eventkazakistan.db84ccc5c0aa526f7c97.png",
     "static/media/fat2fit.png": "/traffury-new/static/media/fat2fit.502c3a5529552f82819a.png",
@@ -37,12 +37,12 @@
     "static/media/monalead.jpg": "/traffury-new/static/media/monalead.fdc9bbaea9d2304448b6.jpg",
     "static/media/metacpa.jpg": "/traffury-new/static/media/metacpa.1686553fd5b3cded7d58.jpg",
     "index.html": "/traffury-new/index.html",
-    "main.26631ea0.css.map": "/traffury-new/static/css/main.26631ea0.css.map",
-    "main.d89ac37c.js.map": "/traffury-new/static/js/main.d89ac37c.js.map",
+    "main.0707eceb.css.map": "/traffury-new/static/css/main.0707eceb.css.map",
+    "main.d9364744.js.map": "/traffury-new/static/js/main.d9364744.js.map",
     "787.c07fcb37.chunk.js.map": "/traffury-new/static/js/787.c07fcb37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26631ea0.css",
-    "static/js/main.d89ac37c.js"
+    "static/css/main.0707eceb.css",
+    "static/js/main.d9364744.js"
   ]
 }
