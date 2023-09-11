@@ -27,7 +27,7 @@ export default function Footer() {
                 </div>
             </div>
 
-            <div>
+            {/* <div>
                 <p class="font-semibold text-gray-800 dark:text-white">Quick Link</p>
 
                 <div class="flex flex-col items-start mt-5 space-y-2">
@@ -35,9 +35,9 @@ export default function Footer() {
                     <a href="#" class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-blue-400 hover:underline hover:text-blue-500">Who We Are</a>
                     <a href="#" class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-blue-400 hover:underline hover:text-blue-500">Our Philosophy</a>
                 </div>
-            </div>
+            </div> */}
 
-            <div>
+            {/* <div>
                 <p class="font-semibold text-gray-800 dark:text-white">Industries</p>
 
                 <div class="flex flex-col items-start mt-5 space-y-2">
@@ -45,7 +45,7 @@ export default function Footer() {
                     <a href="#" class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-blue-400 hover:underline hover:text-blue-500">Information Technology</a>
                     <a href="#" class="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-blue-400 hover:underline hover:text-blue-500">Finance & Insurance</a>
                 </div>
-            </div>
+            </div> */}
         </div>
         
         <hr class="my-6 border-gray-200 md:my-8 dark:border-gray-700"/>
