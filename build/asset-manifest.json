@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/traffury-new/static/css/main.17736877.css",
-    "main.js": "/traffury-new/static/js/main.1f4fd071.js",
+    "main.css": "/traffury-new/static/css/main.8c761763.css",
+    "main.js": "/traffury-new/static/js/main.90721249.js",
     "static/js/787.c07fcb37.chunk.js": "/traffury-new/static/js/787.c07fcb37.chunk.js",
+    "static/media/eventkazakistan.png": "/traffury-new/static/media/eventkazakistan.db84ccc5c0aa526f7c97.png",
+    "static/media/fat2fit.png": "/traffury-new/static/media/fat2fit.502c3a5529552f82819a.png",
+    "static/media/longnights.png": "/traffury-new/static/media/longnights.23f352812736c42dfd40.png",
     "static/media/mottoketo.png": "/traffury-new/static/media/mottoketo.b9cc64c1ba4d281eaea3.png",
+    "static/media/diafix.png": "/traffury-new/static/media/diafix.08bd81bd33b79580829d.png",
     "static/media/giphy.gif": "/traffury-new/static/media/giphy.d7e160215c98356d7be7.gif",
-    "static/media/fleko.png": "/traffury-new/static/media/fleko.f9499b45e3d2839f6657.png",
     "static/media/mapimage.png": "/traffury-new/static/media/mapimage.24eee0bf57989b9c60f9.png",
     "static/media/customer1.jpg": "/traffury-new/static/media/customer1.6f8b662376db90829a3b.jpg",
     "static/media/customer5.jpg": "/traffury-new/static/media/customer5.3170a7102e014756df49.jpg",
@@ -15,9 +18,11 @@
     "static/media/customer3.jpg": "/traffury-new/static/media/customer3.bdf4ec735ccfde9997cb.jpg",
     "static/media/customer2.jpg": "/traffury-new/static/media/customer2.0c773f6af2991864bf40.jpg",
     "static/media/product-1.jpg": "/traffury-new/static/media/product-1.ed362d71a3b821e23b3c.jpg",
+    "static/media/sexup.png": "/traffury-new/static/media/sexup.2060bef0ac2138382c0b.png",
     "static/media/penirun.png": "/traffury-new/static/media/penirun.6112f30f49293f2c1207.png",
     "static/media/abt-bg.jpg": "/traffury-new/static/media/abt-bg.a22a00fe0c2c1e8cd016.jpg",
     "static/media/api.png": "/traffury-new/static/media/api.780c3c66b95cdf377135.png",
+    "static/media/aveda.png": "/traffury-new/static/media/aveda.8dbae985183ca72eb1e3.png",
     "static/media/geo-icon.png": "/traffury-new/static/media/geo-icon.eb32337fbcfd2ae7800e.png",
     "static/media/leadrock.jpg": "/traffury-new/static/media/leadrock.869cd396f02bdae8c5a1.jpg",
     "static/media/personal-icon.png": "/traffury-new/static/media/personal-icon.a2a418d1dabd96ba70aa.png",
@@ -32,12 +37,12 @@
     "static/media/monalead.jpg": "/traffury-new/static/media/monalead.fdc9bbaea9d2304448b6.jpg",
     "static/media/metacpa.jpg": "/traffury-new/static/media/metacpa.1686553fd5b3cded7d58.jpg",
     "index.html": "/traffury-new/index.html",
-    "main.17736877.css.map": "/traffury-new/static/css/main.17736877.css.map",
-    "main.1f4fd071.js.map": "/traffury-new/static/js/main.1f4fd071.js.map",
+    "main.8c761763.css.map": "/traffury-new/static/css/main.8c761763.css.map",
+    "main.90721249.js.map": "/traffury-new/static/js/main.90721249.js.map",
     "787.c07fcb37.chunk.js.map": "/traffury-new/static/js/787.c07fcb37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17736877.css",
-    "static/js/main.1f4fd071.js"
+    "static/css/main.8c761763.css",
+    "static/js/main.90721249.js"
   ]
 }
