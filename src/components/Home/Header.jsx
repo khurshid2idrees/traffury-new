@@ -35,7 +35,7 @@ export default function Header() {
 
 
   return (
-    <div className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32 z-0" id="headercomp">
+    <div className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32 z-0" id="header">
       <img
       src={tfbanner}
         alt=""
@@ -76,7 +76,7 @@ export default function Header() {
         </div>
         <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
 
-<a href="#emailform">
+<a href="#Contactus">
   <button class="group relative h-12 w-44 overflow-hidden rounded-3xl bg-redbtn text-lg font-bold text-white">
     Join Now
     <div class="absolute inset-0 h-full w-full scale-0 rounded-2xl transition-all duration-300 group-hover:scale-100 group-hover:bg-white/30"></div>

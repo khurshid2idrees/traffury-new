@@ -92,7 +92,7 @@ const products = [
 export default function Hotoffers() {
   return (
    <>
-   <div className="bg-white" id="hotcomp">
+   <div className="bg-white" id="hotoffers">
       <div className="mx-auto max-w-2xl px-4 pb-16 sm:px-6 sm:pb-24 lg:max-w-7xl lg:px-8">
       <h1 className='text-center text-5xl font-bold font-gotham  py-4'>Hot Offers</h1>
       <h2 className="text-xl font-semibold  text-center mt-4 text-gray-500 font-gotham">Available 300+ offers in 5 countries.</h2>

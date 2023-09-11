@@ -12,7 +12,7 @@ export default function Footer() {
             <div class="sm:col-span-2">
                 <h1 class="max-w-lg text-xl font-semibold tracking-tight text-gray-800 xl:text-2xl dark:text-white">Subscribe our newsletter to get update.</h1>
 
-                <div class="flex flex-col mx-auto mt-6 space-y-3 md:space-y-0 md:flex-row" id="emailform">
+                <div class="flex flex-col mx-auto mt-6 space-y-3 md:space-y-0 md:flex-row" id="contactus">
 
                     <form action="https://formsubmit.co/kdedris53@gmail.com" method='post'>
                     <input id="email" name='email' required type="text" class="px-4 py-2 text-gray-700 bg-white border rounded-md dark:bg-gray-900 dark:text-gray-300 dark:border-gray-600 focus:border-blue-400 dark:focus:border-blue-300 focus:outline-none focus:ring focus:ring-opacity-40 focus:ring-blue-300" placeholder="Email Address"/>

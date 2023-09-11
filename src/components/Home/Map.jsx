@@ -8,7 +8,7 @@ export default function Map() {
   return (
 <>   
 
-<div className='mt-20' id="locationcomp">
+<div className='mt-20' id="locations">
 
 <img  src={mapimage}/>
 </div>

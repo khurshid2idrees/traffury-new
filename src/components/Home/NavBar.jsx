@@ -7,10 +7,10 @@ import logo from '../../assets/images/trflogo.png';
 const navigation = [
 
 
-    { name: 'Home', href: '#headercomp', current: false, id:'headerid',scrolldown:0 },
-    { name: 'Advantage', href: '#advantagecomp', current: false,id:'advantageid' },
-    { name: 'Hot offers', href: '#hotcomp', current: false, id:'hotofferid' },
-    { name: 'Location', href: '#locationcomp', current: false, id:'locationid' },
+    { name: 'Home', href: '#header', current: false, id:'headerid',scrolldown:0 },
+    { name: 'Advantage', href: '#advantage', current: false,id:'advantageid' },
+    { name: 'Hot offers', href: '#hotoffers', current: false, id:'hotofferid' },
+    { name: 'Location', href: '#locations', current: false, id:'locationid' },
    
   ]
 
