@@ -12,13 +12,8 @@ import 'swiper/css/navigation';
 
 // import required modules
 import { Autoplay } from 'swiper/modules';
-
-
-
-
 import '../../css/style.css';
 import Testcomp from './Aboutslide';
-
 import customer1 from "../../assets/images/aboutpics/customer1.jpg"
 import texasimg from '../../assets/images/eventsimg/eventkazakistan.png'
 
