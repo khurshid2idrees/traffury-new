@@ -12,6 +12,9 @@ module.exports = {
       colors:{
         redbtn:'#FF0000',
         headingred:'linear-gradient(to right, #FF0000 81%, #000000 100%);'
+      },
+      maxWidth: {
+        '1/2': '50%',
       }
     },
 

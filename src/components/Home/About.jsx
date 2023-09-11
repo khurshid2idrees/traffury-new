@@ -3,8 +3,6 @@ import abtbg from '../../assets/images/abt-bg.jpg';
 
 import { useMediaQuery } from 'react-responsive';
 
-
-
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 // Import Swiper styles

@@ -12,6 +12,7 @@ import Payment from './components/Home/Payment';
 
 import Logoslider from './components/Home/Logoslider';
 import Thanks from './pages/Thanks';
+import Events from './components/Home/Events';
 
 // import Test from './components/Home/Test';
 
@@ -32,25 +33,28 @@ function App() {
   return (
     <>
 
+
 <Router>
       <Routes>
-        <Route  path="/thanks" component={<Thanks/>} />
+        <Route  path="/thanks" component={Thanks} />
         {/* <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} /> */}
       </Routes>
     </Router>
 
 
+<Events/>
+
 {/* <Test testdata = {testdata} /> */}
 
-   <NavBar/>
+   {/* <NavBar/>
    <Header/>
    <Advantages/>
   <Hotoffers/>
   <About testdata = {testdata} />
  <Payment/>
   <Logoslider/>
-  <Map/>
+  <Map/> */}
   <Footer/>
 
 
