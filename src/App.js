@@ -23,8 +23,6 @@ function App() {
   return (
     <>
 
-
-
       <Routes>
         <Route exact  path="/" element={<Home/>} />
         <Route  path="/thanks" element={<Thanks/>} />
