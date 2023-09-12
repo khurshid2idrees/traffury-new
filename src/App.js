@@ -1,16 +1,5 @@
 // import logo from './logo.svg';
 import './App.css';
-import NavBar from './components/Home/NavBar';
-import Header from './components/Home/Header';
-import Advantages from './components/Home/Advantages';
-import Hotoffers from './components/Home/Hotoffers';
-import About from './components/Home/About';
-import Map from './components/Home/Map';
-import Footer from './components/Home/Footer';
-// import Thanks from './components/Home/Thanks';
-import Payment from './components/Home/Payment';
-
-import Logoslider from './components/Home/Logoslider';
 import Thanks from './pages/Thanks';
 import Events from './components/Home/Events';
 import Home from './pages/Home'
@@ -35,29 +24,16 @@ function App() {
     <>
 
 
-{/* <Router> */}
+
       <Routes>
         <Route exact  path="/" element={<Home/>} />
         <Route  path="/thanks" element={<Thanks/>} />
-        {/* <Route path="/about" component={About} />
-        <Route path="/contact" component={Contact} /> */}
+      
       </Routes>
-    {/* </Router> */}
 
 
 
-{/* <Test testdata = {testdata} /> */}
 
-   {/* <NavBar/>
-   <Header/>
-   <Advantages/>
-  <Hotoffers/>
-<Events/>
-  <About testdata = {testdata} />
- <Payment/>
-  <Logoslider/>
-  <Map/>
-  <Footer/> */}
 
 
 
