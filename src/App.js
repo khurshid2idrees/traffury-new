@@ -13,6 +13,7 @@ import Payment from './components/Home/Payment';
 import Logoslider from './components/Home/Logoslider';
 import Thanks from './pages/Thanks';
 import Events from './components/Home/Events';
+import Home from './pages/Home'
 
 // import Test from './components/Home/Test';
 
@@ -34,19 +35,20 @@ function App() {
     <>
 
 
-<Router>
+{/* <Router> */}
       <Routes>
-        <Route  path="/thanks" component={Thanks} />
+        <Route exact  path="/" element={<Home/>} />
+        <Route  path="/thanks" element={<Thanks/>} />
         {/* <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} /> */}
       </Routes>
-    </Router>
+    {/* </Router> */}
 
 
 
 {/* <Test testdata = {testdata} /> */}
 
-   <NavBar/>
+   {/* <NavBar/>
    <Header/>
    <Advantages/>
   <Hotoffers/>
@@ -55,7 +57,7 @@ function App() {
  <Payment/>
   <Logoslider/>
   <Map/>
-  <Footer/>
+  <Footer/> */}
 
 
 
