@@ -24,7 +24,7 @@ function App() {
     <>
 
       <Routes>
-        <Route exact  path="/" element={<Home/>} />
+        <Route exact  path="/traffury-new" element={<Home/>} />
         <Route  path="/thanks" element={<Thanks/>} />
       
       </Routes>
