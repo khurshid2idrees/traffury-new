@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/traffury-new/static/css/main.0707eceb.css",
-    "main.js": "/traffury-new/static/js/main.e9ea1567.js",
+    "main.js": "/traffury-new/static/js/main.47d87b5e.js",
     "static/js/787.c07fcb37.chunk.js": "/traffury-new/static/js/787.c07fcb37.chunk.js",
     "static/media/eventkazakistan.png": "/traffury-new/static/media/eventkazakistan.db84ccc5c0aa526f7c97.png",
     "static/media/fat2fit.png": "/traffury-new/static/media/fat2fit.502c3a5529552f82819a.png",
@@ -30,11 +30,11 @@
     "static/media/callCenterIcon.png": "/traffury-new/static/media/callCenterIcon.794f92591a4447e46d42.png",
     "index.html": "/traffury-new/index.html",
     "main.0707eceb.css.map": "/traffury-new/static/css/main.0707eceb.css.map",
-    "main.e9ea1567.js.map": "/traffury-new/static/js/main.e9ea1567.js.map",
+    "main.47d87b5e.js.map": "/traffury-new/static/js/main.47d87b5e.js.map",
     "787.c07fcb37.chunk.js.map": "/traffury-new/static/js/787.c07fcb37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0707eceb.css",
-    "static/js/main.e9ea1567.js"
+    "static/js/main.47d87b5e.js"
   ]
 }
